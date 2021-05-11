@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+  </head>
+  <body>
+    <!-- <script type="text/javascript" src="scatterplot-3.js"></script> -->
+    <!-- <script type="text/javascript" src="line-2.js"></script> -->
+    <script type="text/javascript" src="foo.js"></script>
+  </body>
+</html>
